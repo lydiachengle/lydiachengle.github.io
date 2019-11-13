@@ -9,7 +9,7 @@ As we took in the data, we first only took categoires that are applicable and us
 <img src="/images/Roc Curve.png" width="600"/>
 
 Ranking for Worst Colleges:
-(1) Logic / Algorithm
+(1) Logic / Algorithm:
 For six of my variables that are highly related which I found in the data analysis section, I keep them in my dataset. Among six of them, four of them instructional expenditure, retention, faculty salary,7_year repayment completion, and 5_year declining balance are all positively related to the school score, which means the higher of the number, the better the schools are. The other two, tuition revenue and pell grant debt are negatively affect the school scores because students have to pay more and loan debt after they graduate.
 The porpotion of all positive factors and negative factors are made based on my personal opinion. The money the college spends on teaching and all equipments are the most important part for students to have good college studying experience; 7_year repayment is a way to examine whether students have bright futures after they graduate. For two negative factors, pell grant debt weighs much more than tuition revenue because many students are able to pay for the tuition and still own debt which is a more serious negative influence.
 (2) Result:
