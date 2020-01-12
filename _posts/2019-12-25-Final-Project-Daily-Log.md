@@ -25,7 +25,8 @@ Also, I read the article for recognizing handwriting in general and focus spefic
 First, I figured out getting the dataset and finally downloaded it. Also, I worked on reading the text data of hundreds images and figured out how to show images on jupitor notebook. Through today's work, I leanred how to read images using codes and how to plot png files. Moreover, I reviewed how to read text file which cost me some time to look back. I was still working on analyzing the dataset including categorical and quantitative data. 
 Tomorrow, I will start to train my data using the cross validation.
 
-<img src="/images/showing image.png" width="600"/>
+<img src="/images/showing image" width="600"/>
+
 **January 13th**
 
 **January 15th**
