@@ -25,9 +25,13 @@ Also, I read the article for recognizing handwriting in general and focus spefic
 First, I figured out getting the dataset and finally downloaded it. Also, I worked on reading the text data of hundreds images and figured out how to show images on jupitor notebook. Through today's work, I leanred how to read images using codes and how to plot png files. Moreover, I reviewed how to read text file which cost me some time to look back. I was still working on analyzing the dataset including categorical and quantitative data. 
 Tomorrow, I will start to train my data using the cross validation.
 
-<img src="/images/showing image" width="600"/>
+<img src="/images/showing image.png" width="600"/>
 
 **January 13th**
+Today, I was going to work on training my data, but after trying for a few times, I found it is easier or only works to split the image file first. As a result, I worked on analyzing and splitting the image file that is written in this form, 'data_subset/a01-000u-s00-00.png', in order for future training and testing data. However, I met some problems that although I append names to the list, the list only showed "1" in each bracket. I will figure out and ask Lauren for help tomorrow.
+Tomorrow, I will first figure out the problem, and hopefully work on training dataset as I planned on January 10th.
+
+<img src="/images/problem_1.13.png" width="600"/>
 
 **January 15th**
 
