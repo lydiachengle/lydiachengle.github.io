@@ -36,6 +36,7 @@ Tomorrow, I will first figure out the problem, and hopefully work on training da
 **January 15th**
 I worked on the problem yesterday and figured out that I was looping through the wrong list file. After running the whole list, I realized that I had to transfer the list into matrix form. As a result, I searched Encoder and transformed data into X, Y that coudl be trained. Today, I also read the usage of Keras package to get an initial idea of how to use it for training data.
 Tomorrow, hopefully I can apply Keras package to my dataset and firstly train my data using an applicable dataset directly.
+
 **January 16th**
 
 **January 17th**
